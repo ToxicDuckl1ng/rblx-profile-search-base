@@ -1,4 +1,4 @@
-# twilight-shroud-base
+# Roblox-Profile-Search-Bot-base
 The raw code of a discord bot that creates directories of roblox accounts and you can check if someone from that is online using that directory
 Goal: To detect raids in a roblox game and to raid in game events.
 How: It would be done by uploading all known host's profiles to the directory and the bot would check if someone from that directory is online.
